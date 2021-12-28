@@ -10,7 +10,7 @@
     "test:unit": "vue-cli-service test:unit",
     "lint": "vue-cli-service lint"
   },
-  "main": "dist/web3-token.common.js",
+  "main": "dist/notable-web3-token.common.js",
   "dependencies": {
     "base-64": "^1.0.0",
     "bignumber.js": "^9.0.1",
