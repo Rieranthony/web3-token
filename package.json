@@ -1,6 +1,6 @@
 {
   "name": "notable-web3-token",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "private": false,
   "description": "Web3 Token is a new way to authenticate users in hybrid dApps using signed messages.",
   "author": "bytesbay",
