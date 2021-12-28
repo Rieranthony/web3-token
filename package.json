@@ -1,5 +1,5 @@
 {
-  "name": "web3-token",
+  "name": "@notable/web3-token",
   "version": "0.2.1",
   "private": false,
   "description": "Web3 Token is a new way to authenticate users in hybrid dApps using signed messages.",
